@@ -26,6 +26,7 @@ This repository serves as a learning and reference resource for scientific compu
 ### Learning Modules
 1. [**Cipher String Manipulation**](./01.%20Cipher-string-manipulation/main.py)
 2. [**Luhn Algorithm**](./02.%20Luhn-algorithm/main.py)
+3. [**Expense Tracker**](./03.%20Expense-tracker/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
