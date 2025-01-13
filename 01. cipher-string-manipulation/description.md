@@ -1,7 +1,5 @@
 # Cipher String Manipulation
 
----
-
 This module contains Python implementations of two classic cryptographic algorithms: ***Caesar Cipher*** and ***Vigenère Cipher***. These algorithms are used to encrypt and decrypt text by shifting letters in the alphabet.
 
 ---
@@ -17,7 +15,6 @@ This module contains Python implementations of two classic cryptographic algorit
   - Handles messages with non-alphabetic characters (they are preserved).
   - Supports case-insensitive text and cyclic key usage.
 
-
 ---
 
 ## Usage
@@ -28,7 +25,7 @@ The Caesar cipher is used by calling the `caesar()` function. It takes two argum
 - `offset`: The number of positions to shift the alphabet.
 
 ### Vigenère Cipher
-The Vigenère Cipher is used by calling the `vigenere()` function. It takes three arguments:
+The Vigenère cipher is used by calling the `vigenere()` function. It takes three arguments:
 - `message`: The text to be encrypted/decrypted.
 - `key`: Key used to encrypt/decrypt the message.
 - `direction`: Default value 1 for straight process.
