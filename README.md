@@ -28,6 +28,7 @@ This repository serves as a learning and reference resource for scientific compu
 2. [**Luhn Algorithm**](./02.%20Luhn-algorithm/main.py)
 3. [**Expense Tracker**](./03.%20Expense-tracker/main.py)
 4. [**Case Converter**](./04.%20Case-converter/main.py)
+5. [**Bisection Method**](./05.%20Bisection-method/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
@@ -37,12 +38,7 @@ This repository serves as a learning and reference resource for scientific compu
 ---
 
 ## Certification Projects  
-
-1. **Arithmetic Formatter**  
-2. **Time Calculator**  
-3. **Budget App**  
-4. **Polygon Area Calculator**  
-5. **Probability Calculator**  
+1. [***Arithmetic Formatter***](./Arithmetic-formatter/main.py)  
 
 These projects are required to earn the Scientific Computing with Python certification.  
 
