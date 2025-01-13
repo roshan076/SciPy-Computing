@@ -24,7 +24,7 @@ This repository serves as a learning and reference resource for scientific compu
 ## Projects  
 
 ### Learning Modules  
-    1. [**Cipher String Manipulation**](./01.%20cipher-string-manipulation/main.py)
+    [**1. Cipher String Manipulation**](./01.%20cipher-string-manipulation/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
