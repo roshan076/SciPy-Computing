@@ -1,10 +1,11 @@
 # SciPy-Computing
-A collection of projects and exercises completed as part of the **Scientific Computing with Python** course from **freeCodeCamp**. This repository showcases Python implementations of key concepts like string manipulation, algorithms, recursion, data structures, object-oriented programming, and more.
+A collection of projects and exercises completed as part of the ***Scientific Computing with Python*** course from ***freeCodeCamp***. This repository showcases Python implementations of key concepts like string manipulation, algorithms, recursion, data structures, object-oriented programming, and more.
 
 ## Table of Contents  
 1. [Introduction](#introduction)  
 2. [Projects](#projects)  
 3. [Certification Projects](#certification-projects)  
+4. [Installation](#installation)
 
 ---
 
@@ -21,12 +22,9 @@ This repository serves as a learning and reference resource for scientific compu
 ## Projects  
 
 ### Learning Modules  
-- **String Manipulation:** Cipher implementation (e.g., Caesar Cipher, Vigenère Cipher).  
-- **Algorithms:** Luhn Algorithm, Bisection Method, Shortest Path Algorithm, Tower of Hanoi Puzzle.  
-- **Data Structures:** Merge Sort Algorithm, Binary Search Tree Traversal.  
-- **Object-Oriented Programming:** Sudoku Solver, Vector Space, Projectile Trajectory Calculator.  
+- 1. [**Cipher String Manipulation**](./01.%20cipher-string-manipulation/main.py)
 
-Each folder contains the following:  
+### Each folder contains the following:  
 - Python script for the project  
 - Output obtained from the script 
 - Description of the script
