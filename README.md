@@ -29,6 +29,7 @@ This repository serves as a learning and reference resource for scientific compu
 3. [**Expense Tracker**](./03.%20Expense-tracker/main.py)
 4. [**Case Converter**](./04.%20Case-converter/main.py)
 5. [**Bisection Method**](./05.%20Bisection-method/main.py)
+6. [**Password Generator**](./06.%20Password-generator/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
