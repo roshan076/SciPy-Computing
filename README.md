@@ -30,6 +30,10 @@ This repository serves as a learning and reference resource for scientific compu
 4. [**Case Converter**](./04.%20Case-converter/main.py)
 5. [**Bisection Method**](./05.%20Bisection-method/main.py)
 6. [**Password Generator**](./06.%20Password-generator/main.py)
+7. [**Shortest Path Algorithm**](./07.%20Shortest-path-algorithm/main.py)
+8. [**Tower of Hanoi**](./08.%20Tower-of-hanoi/main.py)
+9. [**Merge Sort Algorithm**](./09.%20Merge-sort-algorithm/main.py)
+10. [**Sudoku Solver**](./10.%20Sudoku-solver/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
@@ -39,7 +43,8 @@ This repository serves as a learning and reference resource for scientific compu
 ---
 
 ## Certification Projects  
-1. [***Arithmetic Formatter***](./Arithmetic-formatter/main.py)  
+1. [***Arithmetic Formatter***](./Arithmetic-formatter/main.py)
+2. [***Time Calculator***](./Time-calculator/main.py)
 
 These projects are required to earn the Scientific Computing with Python certification.  
 
