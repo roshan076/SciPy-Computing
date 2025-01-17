@@ -37,9 +37,9 @@ The `BinarySearchTree` class provides the main functionality for creating and ma
 ### 3. Delete Operation
 - **Delete Method (`delete`)**: Deletes a key from the BST. It uses the helper method `_delete` to recursively find the node to delete.
 - **Helper Method (`_delete`)**:
-- If the node to be deleted has no children, it simply removes it.
-- If the node has one child, it replaces the node with its child.
-- If the node has two children, it finds the minimum value node from the right subtree, replaces the current node's key with that value, and then deletes the minimum value node.
+    - If the node to be deleted has no children, it simply removes it.
+    - If the node has one child, it replaces the node with its child.
+    - If the node has two children, it finds the minimum value node from the right subtree, replaces the current node's key with that value, and then deletes the minimum value node.
 - **Helper Method (`_min_value`)**: Finds the node with the minimum key value in the subtree.
 
 ### 4. Inorder Traversal

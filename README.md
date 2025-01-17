@@ -34,6 +34,7 @@ This repository serves as a learning and reference resource for scientific compu
 8. [**Tower of Hanoi**](./08.%20Tower-of-hanoi/main.py)
 9. [**Merge Sort Algorithm**](./09.%20Merge-sort-algorithm/main.py)
 10. [**Sudoku Solver**](./10.%20Sudoku-solver/main.py)
+11. [**Binary Search Tree**](./11.%20Binary-search-tree/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
