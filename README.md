@@ -35,6 +35,7 @@ This repository serves as a learning and reference resource for scientific compu
 9. [**Merge Sort Algorithm**](./09.%20Merge-sort-algorithm/main.py)
 10. [**Sudoku Solver**](./10.%20Sudoku-solver/main.py)
 11. [**Binary Search Tree**](./11.%20Binary-search-tree/main.py)
+12. [**Vector Space**](./12.%20Vector-space/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
@@ -46,6 +47,7 @@ This repository serves as a learning and reference resource for scientific compu
 ## Certification Projects  
 1. [***Arithmetic Formatter***](./Arithmetic-formatter/main.py)
 2. [***Time Calculator***](./Time-calculator/main.py)
+3. [***Budget App***](./Budget-app/main.py)
 
 These projects are required to earn the Scientific Computing with Python certification.  
 
