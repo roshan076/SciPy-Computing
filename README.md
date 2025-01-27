@@ -49,6 +49,7 @@ This repository serves as a learning and reference resource for scientific compu
 1. [***Arithmetic Formatter***](./Arithmetic-formatter/main.py)
 2. [***Time Calculator***](./Time-calculator/main.py)
 3. [***Budget App***](./Budget-app/main.py)
+4. [***Polygon Area Calculator***](./Polygon-area-calculator/main.py)
 
 These projects are required to earn the Scientific Computing with Python certification.  
 
