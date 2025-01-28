@@ -37,6 +37,7 @@ This repository serves as a learning and reference resource for scientific compu
 11. [**Binary Search Tree**](./11.%20Binary-search-tree/main.py)
 12. [**Vector Space**](./12.%20Vector-space/main.py)
 13. [**Equation Solver**](./13.%20Equation-solver/main.py)
+14. [**Projectile Trajectory Calculator**](./14.%20Projectile-trajectory-calculator/main.py)
 
 ### Each folder contains the following:  
 - Python script for the project  
